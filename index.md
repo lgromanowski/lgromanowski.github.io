@@ -1,7 +1,3 @@
-<nav>
-  <a href="/about">About</a>
-</nav>
-
 {%- for post in site.posts -%}
 <li>
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
