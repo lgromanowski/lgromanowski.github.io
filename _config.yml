@@ -3,7 +3,7 @@ name: Random thoughts
 title: Random thoughts
 description: 
 google_analytics: 
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-hacker
 
 gems:
